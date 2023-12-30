@@ -8,7 +8,7 @@ Software Developer
 * 🧠  I'm learning Java, Node.js
 
 <a href="https://www.github.com/Mahi-edward" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Mahi-edward?logo=github&style=for-the-badge&color=facc15&labelColor=0f172a" /></a>
+src="https://img.shields.io/github/followers/Mahi-edward?logo=github&style=for-the-badge&color=facc15&labelColor=831843" /></a>
 
 ### Skills
 
@@ -26,8 +26,8 @@ src="https://img.shields.io/github/followers/Mahi-edward?logo=github&style=for-t
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Mahi-edward"><img src="https://github-readme-stats.vercel.app/api?username=Mahi-edward&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&show_icons=true" alt="Mahi-edward's GitHub stats" /></a>
+<a href="http://www.github.com/Mahi-edward"><img src="https://github-readme-stats.vercel.app/api?username=Mahi-edward&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=facc15&bg_color=831843&hide_border=true&show_icons=true" alt="Mahi-edward's GitHub stats" /></a>
 
-<a href="http://www.github.com/Mahi-edward"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahi-edward&stroke=ffffff&background=0f172a&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Mahi-edward"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahi-edward&stroke=ffffff&background=831843&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/Mahi-edward" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahi-edward&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Mahi-edward" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahi-edward&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=facc15&bg_color=831843&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
