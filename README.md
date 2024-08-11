@@ -5,7 +5,7 @@ Software Developer
 ------------------
 
 * 🌍  I'm based in India, Madurai
-* 🧠  I'm learning Java, Node.js
+* 🧠  I'm learning Node.js, Express.js
 
 <a href="https://www.github.com/Mahi-edward" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Mahi-edward?logo=github&style=for-the-badge&color=facc15&labelColor=831843" /></a>
